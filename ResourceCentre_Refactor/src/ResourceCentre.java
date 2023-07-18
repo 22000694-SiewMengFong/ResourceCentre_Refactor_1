@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class ResourceCentre {
 
-//dar1
+//dar12
 	public static void main(String[] args) {
 
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
