@@ -2,7 +2,8 @@ import java.util.ArrayList;
 
 public class ResourceCentre {
 
-
+//Ainul Test 1
+	 
 	public static void main(String[] args) {
 
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
